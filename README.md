@@ -1,5 +1,5 @@
-# nodejs-workspace-template
-NodeJS workspace template
+# Learn NodeJS Event Emitter
+Learn NodeJS Event Emitter 
 
 
 ## References
